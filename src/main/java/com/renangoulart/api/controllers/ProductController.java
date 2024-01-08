@@ -2,7 +2,9 @@ package com.renangoulart.api.controllers;
 
 import com.renangoulart.api.entities.Product;
 import com.renangoulart.api.repositories.ProductRepository;
+
 import io.swagger.v3.oas.annotations.Operation;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
